@@ -1,0 +1,2 @@
+../Core/Src/INTERRUPT.c:16:6:SYSCFG_EnableClock	4	static
+../Core/Src/INTERRUPT.c:21:6:Configuration_EXTI	16	static
