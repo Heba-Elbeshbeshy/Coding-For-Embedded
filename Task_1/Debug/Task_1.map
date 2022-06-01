@@ -572,19 +572,19 @@ LOAD c:/st/stm32cubeide_1.9.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
  .debug_line    0x0000000000000bd0      0x4e3 ./Core/Src/system_stm32f4xx.o
  .debug_line    0x00000000000010b3       0x88 ./Core/Startup/startup_stm32f401ccux.o
 
-.debug_str      0x0000000000000000    0x4ff40
- .debug_str     0x0000000000000000    0x4ef07 ./Core/Src/GPIO.o
-                                      0x4f062 (size before relaxing)
- .debug_str     0x000000000004ef07      0x624 ./Core/Src/GPTIM.o
-                                       0x3317 (size before relaxing)
- .debug_str     0x000000000004f52b       0x66 ./Core/Src/NVIC.o
-                                       0x2d84 (size before relaxing)
- .debug_str     0x000000000004f591       0x18 ./Core/Src/main.o
-                                      0x4f5ca (size before relaxing)
- .debug_str     0x000000000004f5a9      0x961 ./Core/Src/system_stm32f4xx.o
-                                      0x4f5c4 (size before relaxing)
- .debug_str     0x000000000004ff0a       0x36 ./Core/Startup/startup_stm32f401ccux.o
-                                         0x7f (size before relaxing)
+.debug_str      0x0000000000000000    0x4ff4e
+ .debug_str     0x0000000000000000    0x4ef15 ./Core/Src/GPIO.o
+                                      0x4f070 (size before relaxing)
+ .debug_str     0x000000000004ef15      0x624 ./Core/Src/GPTIM.o
+                                       0x3325 (size before relaxing)
+ .debug_str     0x000000000004f539       0x66 ./Core/Src/NVIC.o
+                                       0x2d92 (size before relaxing)
+ .debug_str     0x000000000004f59f       0x18 ./Core/Src/main.o
+                                      0x4f5d8 (size before relaxing)
+ .debug_str     0x000000000004f5b7      0x961 ./Core/Src/system_stm32f4xx.o
+                                      0x4f5d2 (size before relaxing)
+ .debug_str     0x000000000004ff18       0x36 ./Core/Startup/startup_stm32f401ccux.o
+                                         0x8d (size before relaxing)
 
 .comment        0x0000000000000000       0x50
  .comment       0x0000000000000000       0x50 ./Core/Src/GPIO.o

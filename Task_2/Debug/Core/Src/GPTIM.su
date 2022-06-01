@@ -1,0 +1,14 @@
+GPTIM.c:12:11:RCC_APB1ENR	8	static
+GPTIM.c:14:11:TIMx_CR1	16	static
+GPTIM.c:15:11:TIMx_DIER	16	static
+GPTIM.c:16:11:TIMx_SR	16	static
+GPTIM.c:17:11:TIMx_EGR	16	static
+GPTIM.c:18:11:TIMx_CNT	16	static
+GPTIM.c:19:11:TIMx_PSC	16	static
+GPTIM.c:20:11:TIMx_ARR	16	static
+GPTIM.c:22:6:TIM_EnableClock	16	static
+GPTIM.c:27:6:TIM_Init	16	static
+GPTIM.c:35:6:TIM_Start	16	static
+GPTIM.c:41:6:TIM_Stop	16	static
+GPTIM.c:47:9:TIM_CheckFlag	16	static
+GPTIM.c:52:6:TIM2_IRQHandler	8	static

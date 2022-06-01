@@ -1,0 +1,2 @@
+NVIC.c:10:11:NVIC_ISER0	8	static
+NVIC.c:12:6:NVIC_EnableTimerInterrupt	16	static
