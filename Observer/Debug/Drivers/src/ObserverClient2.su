@@ -1,0 +1,4 @@
+../Drivers/src/ObserverClient2.c:14:6:Client2Init	8	static
+../Drivers/src/ObserverClient2.c:18:6:Client2Notify	4	static
+../Drivers/src/ObserverClient2.c:22:6:Client2Action	16	static
+../Drivers/src/ObserverClient2.c:29:6:Client2_Unsubscribe	8	static

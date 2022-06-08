@@ -1,0 +1,2 @@
+../Drivers/src/PollDataClient.c:10:15:Update	16	static
+../Drivers/src/PollDataClient.c:17:6:Ecall_ManageClientAction	8	static

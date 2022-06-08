@@ -1,0 +1,2 @@
+../Drivers/src/ObserverClient.c:10:6:Client1_Action	4	static
+../Drivers/src/ObserverClient.c:14:6:Client2_Action	4	static
