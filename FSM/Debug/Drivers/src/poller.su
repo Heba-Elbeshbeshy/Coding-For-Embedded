@@ -1,0 +1,4 @@
+../Drivers/src/poller.c:17:6:Poll	8	static
+../Drivers/src/poller.c:27:6:StartPolling	4	static
+../Drivers/src/poller.c:32:6:StopPolling	4	static
+../Drivers/src/poller.c:37:6:SetPollingTime	16	static

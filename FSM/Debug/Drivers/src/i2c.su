@@ -1,0 +1,2 @@
+../Drivers/src/i2c.c:4:6:I2C1_INIt	4	static
+../Drivers/src/i2c.c:39:6:I2C1_READ	32	static
