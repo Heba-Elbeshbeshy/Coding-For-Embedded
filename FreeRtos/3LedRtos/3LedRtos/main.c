@@ -31,27 +31,16 @@ int main(void)
 	vTaskStartScheduler();
 	while(1)
 	{
-
-
+		
 	}
 }
 
 void Task1_Func(void *parameters)
 {
-	//TickType_t xLastWakeTime;
-	//const TickType_t xFrequency = 100;
-
-	// Initialise the xLastWakeTime variable with the current time.
-	//xLastWakeTime = xTaskGetTickCount();
-
 	while(1)
 	{
-
 		PORTC ^= (1u<<3);
 		vTaskDelay(100);
-		//vTaskDelayUntil(xLastWakeTime,xFrequency);
-		//vTaskDelayUntil(10,200);
-
 	}
 }
 
@@ -59,12 +48,8 @@ void Task2_Func(void *parameters)
 {
 	while(1)
 	{
-
 		PORTC ^= (1u<<5);
 		vTaskDelay(30);
-		//vTaskDelayUntil(10,30);
-
-
 	}
 }
 
@@ -72,15 +57,7 @@ void Task3_Func(void *parameters)
 {
 	while(1)
 	{
-
 		PORTC ^= (1u<<1);
 		vTaskDelay(50);
-		//vTaskDelayUntil(10,30);
-
-
 	}
 }
-
-
-
-
